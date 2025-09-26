@@ -1,3 +1,7 @@
 *under construction*
 
-# Pf, oop and dsa
+- Programming Fundamentals
+    - Comments
+    - Output
+    - Variables
+    - Input
