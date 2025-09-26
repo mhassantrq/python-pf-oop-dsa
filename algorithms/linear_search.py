@@ -1,7 +1,8 @@
 """
 Linear Search
 
-Time Complexity: O(n)
+Worst Case Time Complexity: O(n)
+
 """
 
 def linear_search(tar, nums):
