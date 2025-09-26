@@ -5,3 +5,9 @@
     - Output
     - Variables
     - Input
+    - Operators
+        - Arithmetic
+        - Relational
+        - Logical
+    - String
+    - If Else
