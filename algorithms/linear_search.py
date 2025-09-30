@@ -3,6 +3,12 @@ Linear Search
 
 Worst Case Time Complexity: O(n)
 
+
+Linear Search works by searching in a linear manner from first element to the last to
+find a target value. 
+
+since in worst cast it can run through all numbers and still not find the desired item
+so the worst case time complexity in O(n). 
 """
 
 def linear_search(tar, nums):

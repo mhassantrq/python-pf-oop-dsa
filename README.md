@@ -14,3 +14,12 @@
     - Loop
         - For
         - While
+- Object Oriented Programming
+- Data Structures
+    - List
+    - Sets
+    - Tuples
+    - Dictionary
+- Algorithms
+    - Linear Search
+    - Binary Search
