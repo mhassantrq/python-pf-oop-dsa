@@ -14,6 +14,7 @@
     - Loop
         - For
         - While
+    - Functions
 - Object Oriented Programming
 - Data Structures
     - List
