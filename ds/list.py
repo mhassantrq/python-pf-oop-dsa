@@ -3,7 +3,7 @@ lists are data structures used in python to store values.
 
 elements in list are easily changeable.
 duplicates are allowed in a list.
-
+lists are ordered.
 
 """
 

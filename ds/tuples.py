@@ -4,7 +4,7 @@ tuple is built in data structure in python.
 tuples are immutable, this means that any value in the tuple once created or assigned cannot be changed later on.
 
 tuples can have values of different data types.
-
+tuples are ordered.
 """
 
 #   define a tuple with values
