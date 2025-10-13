@@ -16,6 +16,8 @@
         - For
         - While
     - Functions
+    - Exception Handling
+    - File Handling
 - Object Oriented Programming
 - Data Structures
     - List
@@ -25,3 +27,5 @@
 - Algorithms
     - Linear Search
     - Binary Search
+- Libraries and Modules
+    - Random
